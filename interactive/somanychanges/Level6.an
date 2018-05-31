@@ -1,0 +1,72 @@
+
+{
+
+	"HTMLFileName":"Level6.html",
+	"mediagroup_media/PianoEXTENDED480.mp4":"PianoEXTENDED480",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"mediagroup_media/Sax480.mp4":"Sax480",
+	"mediagroup_media/Trumpet480.mp4":"Trumpet480",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"mediagroup_media/Drum_2480.mp4":"Drum_2480",
+	"expanded:media/DrumsEXTENDED480.mp4":"false",
+	"expanded:media/PianoEXTENDED480.mp4":"false",
+	"expanded:media/Drum_2480.mp4":"false",
+	"symbol_stage":{
+		"dummyStageParentWidth":"1024px",
+		"element_${Sax480}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad"},
+		"dummyStageParentHeight":"720px",
+		"element_${DrumsEXTENDED480}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"element_${BassEXTENDED480}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"timelineColor":"0x00a9fa"},
+		"element_${Trumpet480}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4"},
+		"defaultStageParentHeight":"720px",
+		"element_${Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"defaultStageParentWidth":"1024px",
+		"element_${PianoEXTENDED480}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767"},
+		"element_${Drum_2480}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096"}},
+	"viewStartY":"0",
+	"CompZoomFactor":"100",
+	"mediagroup_media/BassEXTENDED480.mp4":"BassEXTENDED480",
+	"pixelsPerMs":"0.2",
+	"expanded:media/BassEXTENDED480.mp4":"false",
+	"stage-Default Timeline_playhead_ms":"0",
+	"usedBOM":"false",
+	"nextElementColorIndex":"8",
+	"expanded:media/Trumpet480.mp4":"false",
+	"expanded:media/Sax480.mp4":"false",
+	"StageZoomFactor":"50",
+	"mediagroup_media/DrumsEXTENDED480.mp4":"DrumsEXTENDED480"}
